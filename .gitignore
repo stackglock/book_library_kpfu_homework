@@ -1,3 +1,4 @@
 task.docx
 .cache
 build
+src/__pycache__

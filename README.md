@@ -2,3 +2,7 @@
 
 ## Build and run
 
+```bash
+python src/main.py
+```
+
